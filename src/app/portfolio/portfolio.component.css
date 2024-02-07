@@ -1,0 +1,21 @@
+.portfolio{
+    height: 110vh;
+    color: #2C3E50;
+}
+.line{
+    background-color: #2C3E50;
+    width: 100px;
+    height: 5px;
+}
+
+.layer__[_ngcontent-wlu-c19]:hover {
+    opacity: 1;
+}
+
+
+.layer__[_ngcontent-wlu-c19] {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
